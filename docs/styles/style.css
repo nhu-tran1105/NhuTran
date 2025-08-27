@@ -1,0 +1,15 @@
+h1 {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+div {
+    height: 50px;
+    width: 50px;
+    background-color: bisque;
+    border: dotted 2px yellow;
+    border-style: dotted;
+    margin: 12em;
+    padding: 4px;
+
+}

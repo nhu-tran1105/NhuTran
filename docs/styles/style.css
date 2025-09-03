@@ -4,7 +4,7 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
 }
 
-div {
+.Mydiv {
     height: 50px;
     width: 50px;
     background-color: bisque;
@@ -15,3 +15,4 @@ div {
 
 
 }
+

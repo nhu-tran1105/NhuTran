@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+MX+Guides&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+h1 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Mydiv {
+    height: 50px;
+    width: 50px;
+    background-color: bisque;
+    border: dotted 2px yellow;
+    border-style: dotted;
+    margin: 12em;
+    padding: 4px;
+
+
+}
+

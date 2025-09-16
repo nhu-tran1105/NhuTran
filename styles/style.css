@@ -124,7 +124,7 @@ h1 h2 h6{
 }
 
 footer {
-  position: fixed;
+  position:absolute;
   bottom: 0;
   width: 97%;
   text-align: right;

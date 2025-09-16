@@ -22,10 +22,7 @@ body {
   margin: 0;
   font-family: "Playfair Display", serif;
   background: #f1f1f1;
-  background-image: url('/assets/images/background.jpeg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+
 }
 
 .header {
@@ -123,12 +120,13 @@ h1 h2 h6{
   font-style: normal;
 }
 
-footer {
-  position:absolute;
+.footer {
+  position:fixed;
   bottom: 0;
-  width: 97%;
-  text-align: right;
-  color: black;
+  width: 100%;
+  text-align: center;
+  color: dark;
+  background-color: #F5D2D2;
 }
 
 #image-fluid{

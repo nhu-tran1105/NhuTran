@@ -8,6 +8,7 @@ The site highlights my background, interests, and hobbies, while also serving as
 ---
 
 ## 🗂️ Page Map
+![Page Map](./assets/images/page-map.png)
 - `index.html` → Homepage with introduction  
 - `pages/about.html` → About Me page  
 - `pages/recipes.html` → Recipes page  

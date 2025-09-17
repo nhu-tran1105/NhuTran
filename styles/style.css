@@ -25,6 +25,10 @@ body {
 
 }
 
+.avatar-img {
+  width: 60%;
+}
+
 .header {
     padding: 10px;
     font-size: 2%;
